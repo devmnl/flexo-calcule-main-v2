@@ -20,7 +20,7 @@ export const Footer: React.FC<FooterProps> = ({ onReset }) => {
         </div>
         
         <p className="text-gray-400 text-sm mb-2">
-          &copy; {new Date().getFullYear()} Flexo Calcule. Desenvolvido com precisão para profissionais.
+          &copy; {new Date().getFullYear()} Desenvolvido por Manoel F. F. Neto.
         </p>
       </div>
     </footer>
